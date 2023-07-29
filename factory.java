@@ -32,3 +32,5 @@ public class TemplatePattern{
 }
   }
 }
+
+Res: https://youtu.be/pdSsrND-7q0
