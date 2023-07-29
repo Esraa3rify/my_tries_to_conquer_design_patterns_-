@@ -29,9 +29,6 @@ public class TemplatePattern{
 
     else
       return pay_credit();
-
-  }
-  
 }
-
+  }
 }
