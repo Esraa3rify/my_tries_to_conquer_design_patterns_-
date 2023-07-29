@@ -64,3 +64,7 @@ audioplayermp3 mp3= new audioplayermp3 ();
 mp3.play("song.mp4");
 Console.ReadKey();
 }
+
+
+
+ Res:https://youtu.be/0wdRaXpyzBs
